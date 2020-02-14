@@ -2,8 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274d1ce9-1c8d-488b-9a19-f6dbfcb92b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/feature_25facbf1198b3f50c711f5d160bc873a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_113d62fb02b5e4d6ed0467c969368f1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_2f51a61b82c56bbb5943be6259436981.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_34c6df0b05fc8e164841512d61bf3bd0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_37827e2255c537f56039810260aadb06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_3a47330717f3d03f4718b7ada759564a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_466cbf8e44ddca8d949187d1d2a588df.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_4738ec2b565cd662003b067e6020e7d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_48f7a66aa9b984c5a465711a9fd277a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_573135c4f42d367b805c8adc5657d160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_58068b140c54fe34ec04072b2be57b7c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_5d134b27263be034936d98f074431399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_6370e6b4b6890606327de84bf4f92e76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_7694710ee9e5248bb2f76271a0021ec9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_794c2891d8689ba899fd5d3ff174bf06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_8768ce8246e304aa7298926293317dfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_91c68007d450b06625e6aafc913ae16f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_946adc487e0f532b83d9b6142282759a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_95a2e16cc1ce473f81d28ee4853e078d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_9b27edd57f76bd42b0e73401d566a7f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_9e88fd1b23109bbba183750f12271a79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_a3ef00140a910439f24d9b9122fd738f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_ab34f78c80a51cd20ae64aa49edb1109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_af987d8470b9bd4770239463eac967d7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_b00117e179a9066fb38759f720aef40d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_b9c4926378890b097d6ee65292db1e8c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_ba5ac5f80fa527849499ea4f533b9c4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_bd1a05312c19f0c28dcc24353245f3a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_bd6c7831882d9fbf7084c1bb47e95c34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_c7a84d0b3da4bf9228e16554951f7312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_c86ef8047b5d24caa8747b7fd9481062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_c8b26bf59a3dc483294256240895cedc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_c9030910601468ed6dfec392ed06aea1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_cc1cead8b5152c7e8247415fdfb5eeec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_e2c9550eddd8d114efb6c458f71fb28b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_e45f65c2dec1e751ac870db1c791666e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_e5cab8b3614f4057dc5653355e0689ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_e6a58384ce94d6729cc300e9fdfa03b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_ea297ecec42076e86af479d900bd7e29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_eb3337832d6431902f099098219806ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_f1fe57ed7a3189febe377c6a21914137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_f3d5d3b89c42a268173bc9956b90a7eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_f7c24e752c8e51620aec8963bc7b107f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/tabloid_fcea7dc25d4b93bb0d60fae8a686ffc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_0b3eb6cc4076a4bfb2884903e315447b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_113d62fb02b5e4d6ed0467c969368f1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_1e3e8f10759cab984db91f5c0cfc4fec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_2f51a61b82c56bbb5943be6259436981.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_3a47330717f3d03f4718b7ada759564a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_58068b140c54fe34ec04072b2be57b7c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_95a2e16cc1ce473f81d28ee4853e078d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_a0bdf7b6f335dc3b5fabd9fb46927683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_a3ef00140a910439f24d9b9122fd738f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_ab34f78c80a51cd20ae64aa49edb1109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_bd1a05312c19f0c28dcc24353245f3a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_bd6c7831882d9fbf7084c1bb47e95c34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_c86ef8047b5d24caa8747b7fd9481062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_c8b26bf59a3dc483294256240895cedc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_c9030910601468ed6dfec392ed06aea1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_cd6533b678aef9ed762ded90a3b82d13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_dda4eaf535c6aeaf156bdce761c3759e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_f1fe57ed7a3189febe377c6a21914137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/image/top7_fe6dd3b724f87682f9d34eb06c395403.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +100,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,37 +134,49 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581425779056" />
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1581430369050">
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1581676775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581430369050" />
-    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1581430369050">
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581676775115" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1581676775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581430369050" />
-    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1581430369050">
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581676775115" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1581676775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581430369050" />
-    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1581430369050">
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581676775115" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1581676775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581430369050" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581426240547">
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581676775115" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581675743095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581426240547" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581426240547">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581675743095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581675743095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581426240547" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581426240546">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581675743095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581675743095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581426240546" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581426240547">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581675743095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581675743095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581426240547" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581675743095" />
+    <state x="342" y="216" key="new project wizard" timestamp="1581506669313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581506669313" />
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1581432017033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581432017033" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1581675521788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581675521788" />
   </component>
 </project>
